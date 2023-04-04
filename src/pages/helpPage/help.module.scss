@@ -1,0 +1,35 @@
+.consultations {
+  background-image: url('../../assets/svg/accountBg.svg');
+}
+
+.accordion {
+  transition: all 0.3s ease;
+}
+
+.closed {
+  max-height: 0;
+  overflow: hidden;
+}
+
+.open {
+  max-height: auto;
+  margin-bottom: 2rem;
+  hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+.scroll_area {
+  overflow-y: auto;
+
+  &::-webkit-scrollbar {
+    width: 25px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border: 8px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
+    border-radius: 12px;
+    background-color: rgb(42, 45, 52, 0.3);
+  }
+}
