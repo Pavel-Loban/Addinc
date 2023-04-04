@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Addinc/static/css/main.382ec07e.css",
-    "main.js": "/Addinc/static/js/main.c8807284.js",
+    "main.js": "/Addinc/static/js/main.d1d2cc9c.js",
     "static/js/787.c630e91c.chunk.js": "/Addinc/static/js/787.c630e91c.chunk.js",
     "static/media/unsplash_QVyAUDUOlMw.svg": "/Addinc/static/media/unsplash_QVyAUDUOlMw.448b94e83b096f08acf8bbb301411047.svg",
     "static/media/Rectangle.svg": "/Addinc/static/media/Rectangle.4f0314adf94a1499599316b7a0b47f83.svg",
@@ -30,11 +30,11 @@
     "static/media/🦆 icon _chevron down_.svg": "/Addinc/static/media/🦆 icon _chevron down_.7f39e15735751eb3ea39489e863e79b0.svg",
     "static/media/arrow_left.svg": "/Addinc/static/media/arrow_left.c74af6fb0ca0720cb090260b77ad56e8.svg",
     "main.382ec07e.css.map": "/Addinc/static/css/main.382ec07e.css.map",
-    "main.c8807284.js.map": "/Addinc/static/js/main.c8807284.js.map",
+    "main.d1d2cc9c.js.map": "/Addinc/static/js/main.d1d2cc9c.js.map",
     "787.c630e91c.chunk.js.map": "/Addinc/static/js/787.c630e91c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.382ec07e.css",
-    "static/js/main.c8807284.js"
+    "static/js/main.d1d2cc9c.js"
   ]
 }
